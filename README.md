@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Sushil Kumar
 
-<!--
-**sus8916ai-alt/sus8916ai-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Python Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+Passionate developer with experience in building modern web applications and intelligent AI solutions.  
+Skilled in Full Stack Development using Microsoft technologies and AI/ML-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### 🌐 Full Stack Development
+- C#
+- ASP.NET Core MVC
+- .NET Framework
+- REST API Development
+- Entity Framework
+
+### 🗄️ Database
+- MySQL
+- SQL Server
+
+### 🎨 Frontend Technologies
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- AJAX
+
+### 🐍 Python & AI Technologies
+- Python Development
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Agentic AI
+
+---
+
+## 📚 Areas of Interest
+- Artificial Intelligence
+- Web Application Development
+- Computer Vision
+- NLP Applications
+- AI Automation
+- Deep Learning Projects
+
+---
+
+## 🛠️ Tools & Technologies
+- Visual Studio
+- VS Code
+- Git & GitHub
+- Jupyter Notebook
+- SQL Server Management Studio
+
+---
+
+## 📈 Currently Learning
+- Advanced Generative AI
+- Multi-Agent AI Systems
+- Cloud Deployment
+- AI Model Optimization
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@example.com
+
+---
+
+## ⚡ Fun Fact
+> "Code + AI = Building the Future"
